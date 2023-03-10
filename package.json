@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "node": "^19.6.1",
+    "react": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "require": "^2.4.20"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
