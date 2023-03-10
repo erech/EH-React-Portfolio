@@ -1,7 +1,7 @@
 import '../css/contact.css';
 import React from 'react';
 import { useForm } from 'react-hook-form';
-import Navbar from './src/pages/navbar.js';
+import Navbar from './navbar.js';
 
 function Contact() {
     const { register, handleSubmit } = useForm();
