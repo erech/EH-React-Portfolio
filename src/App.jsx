@@ -6,6 +6,7 @@ import Contact from './pages/contact';
 import Portfolio from './pages/portfolio';
 import Resume from './pages/resume';
 import Navbar from './pages/navbar';
+import './css/App.css';
 
 
 function App() {
