@@ -1,11 +1,14 @@
 import React from 'react';
-import './src/css/about.css';
+import Navbar from './src/pages/navbar.js';
+import '../css/about.css';
 
 function About() {
     return (
       <div>
+        <Navbar />
         <h1>About Me</h1>
         <p>
+          This is about about me! Enjoy the rest of the portfolio. 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sit amet leo id risus tincidunt
           egestas. Donec rhoncus elit at elit tincidunt, eu dictum libero laoreet.
         </p>
